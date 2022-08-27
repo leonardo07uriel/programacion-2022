@@ -8,4 +8,902 @@
 <p>Esta esmi pagina</p>
 <p></p>
 </body>
-</html>
+</html> 
+<html lang="es-ES" class="cmsmasters_html js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" style=""><head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="format-detection" content="telephone=no">
+<link rel="profile" href="//gmpg.org/xfn/11">
+<link rel="pingback" href="https://photo-museum.org/xmlrpc.php">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="alternate" hreflang="en" href="https://photo-museum.org/after-niepce-and-daguerre/">
+<link rel="alternate" hreflang="fr" href="https://photo-museum.org/fr/histoire-photographie/">
+<link rel="alternate" hreflang="es" href="https://photo-museum.org/es/historia-fotografia/">
+<link rel="alternate" hreflang="x-default" href="https://photo-museum.org/after-niepce-and-daguerre/">
+<!-- This site is optimized with the Yoast SEO plugin v19.5.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Historia de la fotografía - Musée Photo Maison Nicéphore Niépce</title>
+<link rel="canonical" href="https://photo-museum.org/es/historia-fotografia/">
+<meta property="og:locale" content="es_ES">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Historia de la fotografía - Musée Photo Maison Nicéphore Niépce">
+<meta property="og:url" content="https://photo-museum.org/es/historia-fotografia/">
+<meta property="og:site_name" content="Musée Photo Maison Nicéphore Niépce">
+<meta property="article:modified_time" content="2021-02-17T17:56:57+00:00">
+<meta property="og:image" content="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Hippolyte_Bayard_1863.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:label1" content="Tiempo de lectura">
+<meta name="twitter:data1" content="7 minutos">
+<script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/linkid.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://photo-museum.org/es/historia-fotografia/","url":"https://photo-museum.org/es/historia-fotografia/","name":"Historia de la fotografía - Musée Photo Maison Nicéphore Niépce","isPartOf":{"@id":"https://photo-museum.org/#website"},"primaryImageOfPage":{"@id":"https://photo-museum.org/es/historia-fotografia/#primaryimage"},"image":{"@id":"https://photo-museum.org/es/historia-fotografia/#primaryimage"},"thumbnailUrl":"https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Hippolyte_Bayard_1863.jpg","datePublished":"2015-01-07T16:12:04+00:00","dateModified":"2021-02-17T17:56:57+00:00","breadcrumb":{"@id":"https://photo-museum.org/es/historia-fotografia/#breadcrumb"},"inLanguage":"es","potentialAction":[{"@type":"ReadAction","target":["https://photo-museum.org/es/historia-fotografia/"]}]},{"@type":"ImageObject","inLanguage":"es","@id":"https://photo-museum.org/es/historia-fotografia/#primaryimage","url":"https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Hippolyte_Bayard_1863.jpg","contentUrl":"https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Hippolyte_Bayard_1863.jpg"},{"@type":"BreadcrumbList","@id":"https://photo-museum.org/es/historia-fotografia/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://photo-museum.org/es/"},{"@type":"ListItem","position":2,"name":"Historia de la fotografía"}]},{"@type":"WebSite","@id":"https://photo-museum.org/#website","url":"https://photo-museum.org/","name":"Musée Photo Maison Nicéphore Niépce","description":"Un site utilisant WordPress","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://photo-museum.org/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"es"}]}</script>
+<!-- / Yoast SEO plugin. -->
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Musée Photo Maison Nicéphore Niépce » Feed" href="https://photo-museum.org/es/feed/">
+<link rel="alternate" type="application/rss+xml" title="Musée Photo Maison Nicéphore Niépce » Feed de los comentarios" href="https://photo-museum.org/es/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Musée Photo Maison Nicéphore Niépce » Comentario Historia de la fotografía del feed" href="https://photo-museum.org/es/historia-fotografia/feed/">
+<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
+<script src="//www.googletagmanager.com/gtag/js?id=UA-34001527-4" data-cfasync="false" data-wpfc-render="false" type="text/javascript" async=""></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+var mi_version = '8.7.0';
+var mi_track_user = true;
+var mi_no_track_reason = '';
+var disableStrs = [
+'ga-disable-UA-34001527-4',
+];
+/* Function to detect opted out users */
+function __gtagTrackerIsOptedOut() {
+for ( var index = 0; index < disableStrs.length; index++ ) {
+if ( document.cookie.indexOf( disableStrs[ index ] + '=true' ) > -1 ) {
+return true;
+}
+}
+return false;
+}
+/* Disable tracking if the opt-out cookie exists. */
+if ( __gtagTrackerIsOptedOut() ) {
+for ( var index = 0; index < disableStrs.length; index++ ) {
+window[ disableStrs[ index ] ] = true;
+}
+}
+/* Opt-out function */
+function __gtagTrackerOptout() {
+for ( var index = 0; index < disableStrs.length; index++ ) {
+document.cookie = disableStrs[ index ] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+window[ disableStrs[ index ] ] = true;
+}
+}
+if ( 'undefined' === typeof gaOptout ) {
+function gaOptout() {
+__gtagTrackerOptout();
+}
+}
+window.dataLayer = window.dataLayer || [];
+window.MonsterInsightsDualTracker = {
+helpers: {},
+trackers: {},
+};
+if ( mi_track_user ) {
+function __gtagDataLayer() {
+dataLayer.push( arguments );
+}
+function __gtagTracker( type, name, parameters ) {
+if (!parameters) {
+parameters = {};
+}
+if (parameters.send_to) {
+__gtagDataLayer.apply( null, arguments );
+return;
+}
+if ( type === 'event' ) {
+parameters.send_to = monsterinsights_frontend.ua;
+__gtagDataLayer( type, name, parameters );
+} else {
+__gtagDataLayer.apply( null, arguments );
+}
+}
+__gtagTracker( 'js', new Date() );
+__gtagTracker( 'set', {
+'developer_id.dZGIzZG' : true,
+} );
+__gtagTracker( 'config', 'UA-34001527-4', {"forceSSL":"true","link_attribution":"true"} );
+window.gtag = __gtagTracker;											(function () {
+/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+/* ga and __gaTracker compatibility shim. */
+var noopfn = function () {
+return null;
+};
+var newtracker = function () {
+return new Tracker();
+};
+var Tracker = function () {
+return null;
+};
+var p = Tracker.prototype;
+p.get = noopfn;
+p.set = noopfn;
+p.send = function (){
+var args = Array.prototype.slice.call(arguments);
+args.unshift( 'send' );
+__gaTracker.apply(null, args);
+};
+var __gaTracker = function () {
+var len = arguments.length;
+if ( len === 0 ) {
+return;
+}
+var f = arguments[len - 1];
+if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+if ( 'send' === arguments[0] ) {
+var hitConverted, hitObject = false, action;
+if ( 'event' === arguments[1] ) {
+if ( 'undefined' !== typeof arguments[3] ) {
+hitObject = {
+'eventAction': arguments[3],
+'eventCategory': arguments[2],
+'eventLabel': arguments[4],
+'value': arguments[5] ? arguments[5] : 1,
+}
+}
+}
+if ( 'pageview' === arguments[1] ) {
+if ( 'undefined' !== typeof arguments[2] ) {
+hitObject = {
+'eventAction': 'page_view',
+'page_path' : arguments[2],
+}
+}
+}
+if ( typeof arguments[2] === 'object' ) {
+hitObject = arguments[2];
+}
+if ( typeof arguments[5] === 'object' ) {
+Object.assign( hitObject, arguments[5] );
+}
+if ( 'undefined' !== typeof arguments[1].hitType ) {
+hitObject = arguments[1];
+if ( 'pageview' === hitObject.hitType ) {
+hitObject.eventAction = 'page_view';
+}
+}
+if ( hitObject ) {
+action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+hitConverted = mapArgs( hitObject );
+__gtagTracker( 'event', action, hitConverted );
+}
+}
+return;
+}
+function mapArgs( args ) {
+var arg, hit = {};
+var gaMap = {
+'eventCategory': 'event_category',
+'eventAction': 'event_action',
+'eventLabel': 'event_label',
+'eventValue': 'event_value',
+'nonInteraction': 'non_interaction',
+'timingCategory': 'event_category',
+'timingVar': 'name',
+'timingValue': 'value',
+'timingLabel': 'event_label',
+'page' : 'page_path',
+'location' : 'page_location',
+'title' : 'page_title',
+};
+for ( arg in args ) {
+if ( ! ( ! args.hasOwnProperty(arg) || ! gaMap.hasOwnProperty(arg) ) ) {
+hit[gaMap[arg]] = args[arg];
+} else {
+hit[arg] = args[arg];
+}
+}
+return hit;
+}
+try {
+f.hitCallback();
+} catch ( ex ) {
+}
+};
+__gaTracker.create = newtracker;
+__gaTracker.getByName = newtracker;
+__gaTracker.getAll = function () {
+return [];
+};
+__gaTracker.remove = noopfn;
+__gaTracker.loaded = true;
+window['__gaTracker'] = __gaTracker;
+})();
+} else {
+console.log( "" );
+( function () {
+function __gtagTracker() {
+return null;
+}
+window['__gtagTracker'] = __gtagTracker;
+window['gtag'] = __gtagTracker;
+} )();
+}
+</script>
+<!-- / Google Analytics by MonsterInsights -->
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/photo-museum.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script><script src="https://photo-museum.org/wp-includes/js/wp-emoji-release.min.js?ver=6.0.1" type="text/javascript" defer=""></script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+display: inline !important;
+border: none !important;
+box-shadow: none !important;
+height: 1em !important;
+width: 1em !important;
+margin: 0 0.07em !important;
+vertical-align: -0.1em !important;
+background: none !important;
+padding: 0 !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='wp-block-library-css'  href='https://photo-museum.org/wp-includes/css/dist/block-library/style.min.css?ver=6.0.1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//photo-museum.org/wp-content/cache/wpfc-minified/979lkdsw/dn3pk.css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--color-1: #000000;--wp--preset--color--color-2: #ffffff;--wp--preset--color--color-3: #797979;--wp--preset--color--color-4: #4c4c4c;--wp--preset--color--color-5: #787b80;--wp--preset--color--color-6: #16202f;--wp--preset--color--color-7: #fafafa;--wp--preset--color--color-8: #d8dadc;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<!-- <link rel='stylesheet' id='contact-form-7-css'  href='https://photo-museum.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='cookie-law-info-css'  href='https://photo-museum.org/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=2.1.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='https://photo-museum.org/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=2.1.2' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='rs-plugin-settings-css'  href='https://photo-museum.org/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.2.8' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//photo-museum.org/wp-content/cache/wpfc-minified/dh5jr04k/dn3pk.css" media="all">
+<style id="rs-plugin-settings-inline-css" type="text/css">
+#rs-demo-id {}
+</style>
+<!-- <link rel='stylesheet' id='wpml-menu-item-0-css'  href='//photo-museum.org/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//photo-museum.org/wp-content/cache/wpfc-minified/33cduhjs/dn3pk.css" media="all">
+<!-- <link rel='stylesheet' id='galleria-metropolia-theme-style-css'  href='https://photo-museum.org/wp-content/themes/galleria-metropolia/style.css?ver=1.0.0' type='text/css' media='screen, print' /> -->
+<!-- <link rel='stylesheet' id='galleria-metropolia-style-css'  href='https://photo-museum.org/wp-content/themes/galleria-metropolia/theme-framework/theme-style/css/style.css?ver=1.0.0' type='text/css' media='screen, print' /> -->
+<link rel="stylesheet" type="text/css" href="//photo-museum.org/wp-content/cache/wpfc-minified/86mtnti2/dn3pk.css" media="screen, print">
+<style id="galleria-metropolia-style-inline-css" type="text/css">
+.header_mid .header_mid_inner .logo_wrap {
+width : 199px;
+}
+.header_mid_inner .logo img.logo_retina {
+width : 199px;
+}
+.header_mid_scroll .header_mid_inner .logo img.logo_retina {
+width : auto;
+}
+.headline_outer {
+background-image:url(https://photo-museum.org/wp-content/uploads/2019/10/header-5.jpg);
+background-repeat:no-repeat;
+background-attachment:scroll;
+background-size:auto;
+}
+.headline_color {
+background-color:rgba(0,0,0,0.5);
+}
+.headline_aligner, 
+.cmsmasters_breadcrumbs_aligner {
+min-height:312px;
+}
+#page .cmsmasters_social_icon_color.cmsmasters_social_icon_1 {
+color:rgba(22,32,47,0.5);
+}
+#page .cmsmasters_social_icon_color.cmsmasters_social_icon_1:hover {
+color:#16202f;
+}
+#page .cmsmasters_social_icon_color.cmsmasters_social_icon_2 {
+color:rgba(22,32,47,0.5);
+}
+#page .cmsmasters_social_icon_color.cmsmasters_social_icon_2:hover {
+color:#16202f;
+}
+#page .cmsmasters_social_icon_color.cmsmasters_social_icon_3:hover {
+color:#16202f;
+}
+#page .cmsmasters_social_icon_color.cmsmasters_social_icon_4 {
+color:rgba(22,32,47,0.5);
+}
+#page .cmsmasters_social_icon_color.cmsmasters_social_icon_4:hover {
+color:#16202f;
+}
+.header_top {
+height : 38px;
+}
+.header_mid {
+height : 130px;
+}
+.header_bot {
+height : 60px;
+}
+#page.cmsmasters_heading_after_header #middle, 
+#page.cmsmasters_heading_under_header #middle .headline .headline_outer {
+padding-top : 130px;
+}
+#page.cmsmasters_heading_after_header.enable_header_top #middle, 
+#page.cmsmasters_heading_under_header.enable_header_top #middle .headline .headline_outer {
+padding-top : 168px;
+}
+#page.cmsmasters_heading_after_header.enable_header_bottom #middle, 
+#page.cmsmasters_heading_under_header.enable_header_bottom #middle .headline .headline_outer {
+padding-top : 190px;
+}
+#page.cmsmasters_heading_after_header.enable_header_top.enable_header_bottom #middle, 
+#page.cmsmasters_heading_under_header.enable_header_top.enable_header_bottom #middle .headline .headline_outer {
+padding-top : 228px;
+}
+@media only screen and (max-width: 1024px) {
+.header_top,
+.header_mid,
+.header_bot {
+height : auto;
+}
+.header_mid .header_mid_inner > div {
+height : 130px;
+}
+.header_bot .header_bot_inner > div {
+height : 60px;
+}
+#page.cmsmasters_heading_after_header #middle, 
+#page.cmsmasters_heading_under_header #middle .headline .headline_outer, 
+#page.cmsmasters_heading_after_header.enable_header_top #middle, 
+#page.cmsmasters_heading_under_header.enable_header_top #middle .headline .headline_outer, 
+#page.cmsmasters_heading_after_header.enable_header_bottom #middle, 
+#page.cmsmasters_heading_under_header.enable_header_bottom #middle .headline .headline_outer, 
+#page.cmsmasters_heading_after_header.enable_header_top.enable_header_bottom #middle, 
+#page.cmsmasters_heading_under_header.enable_header_top.enable_header_bottom #middle .headline .headline_outer {
+padding-top : 0 !important;
+}
+}
+@media only screen and (max-width: 768px) {
+.header_mid .header_mid_inner > div, 
+.header_bot .header_bot_inner > div {
+height:auto;
+}
+}
+h2.cmsmasters_heading a {
+text-decoration: underline;
+}
+#page .cmsmasters_rounded_button {
+width: 100px;
+padding: 28px 10px;
+}
+.wp-caption {
+padding: 8px 20px 0;
+}
+nav > div > ul li.menu-item-mega-fullwidth.menu-item-mega-cols-four > div.menu-item-mega-container > ul > li {
+vertical-align: top !important;
+}
+</style>
+<!-- <link rel='stylesheet' id='galleria-metropolia-adaptive-css'  href='https://photo-museum.org/wp-content/themes/galleria-metropolia/theme-framework/theme-style/css/adaptive.css?ver=1.0.0' type='text/css' media='screen, print' /> -->
+<link rel="stylesheet" type="text/css" href="//photo-museum.org/wp-content/cache/wpfc-minified/qiyepx6b/dn3pk.css" media="screen, print">
+<!-- <link rel='stylesheet' id='galleria-metropolia-retina-css'  href='https://photo-museum.org/wp-content/themes/galleria-metropolia/theme-framework/theme-style/css/retina.css?ver=1.0.0' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="//photo-museum.org/wp-content/cache/wpfc-minified/qtjpl8cr/dn3pk.css" media="screen">
+<style id="galleria-metropolia-retina-inline-css" type="text/css">
+</style>
+<!-- <link rel='stylesheet' id='galleria-metropolia-icons-css'  href='https://photo-museum.org/wp-content/themes/galleria-metropolia/css/fontello.css?ver=1.0.0' type='text/css' media='screen' /> -->
+<!-- <link rel='stylesheet' id='galleria-metropolia-icons-custom-css'  href='https://photo-museum.org/wp-content/themes/galleria-metropolia/theme-vars/theme-style/css/fontello-custom.css?ver=1.0.0' type='text/css' media='screen' /> -->
+<!-- <link rel='stylesheet' id='animate-css'  href='https://photo-museum.org/wp-content/themes/galleria-metropolia/css/animate.css?ver=1.0.0' type='text/css' media='screen' /> -->
+<!-- <link rel='stylesheet' id='ilightbox-css'  href='https://photo-museum.org/wp-content/themes/galleria-metropolia/css/ilightbox.css?ver=2.2.0' type='text/css' media='screen' /> -->
+<!-- <link rel='stylesheet' id='ilightbox-skin-dark-css'  href='https://photo-museum.org/wp-content/themes/galleria-metropolia/css/ilightbox-skins/dark-skin.css?ver=2.2.0' type='text/css' media='screen' /> -->
+<!-- <link rel='stylesheet' id='galleria-metropolia-fonts-schemes-css'  href='https://photo-museum.org/wp-content/uploads/cmsmasters_styles/galleria-metropolia.css?ver=1.0.0' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="//photo-museum.org/wp-content/cache/wpfc-minified/kncqf6ut/dn3pk.css" media="screen">
+<link rel="stylesheet" id="google-fonts-css" href="//fonts.googleapis.com/css?family=Roboto%3A300%2C300i%2C400%2C400i%2C500%2C500i%2C700%2C700i%7CKarla%3A400%2C400i%2C700%2C700i%7CPrata&amp;ver=6.0.1" type="text/css" media="all">
+<!-- <link rel='stylesheet' id='galleria-metropolia-gutenberg-frontend-style-css'  href='https://photo-museum.org/wp-content/themes/galleria-metropolia/gutenberg/cmsmasters-framework/theme-style/css/frontend-style.css?ver=1.0.0' type='text/css' media='screen' /> -->
+<link rel="stylesheet" type="text/css" href="//photo-museum.org/wp-content/cache/wpfc-minified/9jngrmvy/dn3pk.css" media="screen">
+<!-- <link rel='stylesheet' id='jquery-lazyloadxt-spinner-css-css'  href='//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css?ver=6.0.1' type='text/css' media='all' /> -->
+<!-- <link rel='stylesheet' id='a3a3_lazy_load-css'  href='//photo-museum.org/wp-content/uploads/sass/a3_lazy_load.min.css?ver=1588726893' type='text/css' media='all' /> -->
+<link rel="stylesheet" type="text/css" href="//photo-museum.org/wp-content/cache/wpfc-minified/7vjsyav9/dn3pk.css" media="all">
+<script src="//photo-museum.org/wp-content/cache/wpfc-minified/e4asif8u/dn3pk.js" type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://photo-museum.org/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.7.0' id='monsterinsights-frontend-script-js'></script> -->
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id="monsterinsights-frontend-script-js-extra">/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/photo-museum.org\/es\/","hash_tracking":"false","ua":"UA-34001527-4","v4_id":""};/* ]]> */
+</script>
+<script src="//photo-museum.org/wp-content/cache/wpfc-minified/lpjv2vwd/dn3pk.js" type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://photo-museum.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script> -->
+<!-- <script type='text/javascript' src='https://photo-museum.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script> -->
+<script type="text/javascript" id="cookie-law-info-js-extra">
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","strictlyEnabled":["necessary","obligatoire"],"ccpaType":"gdpr","js_blocking":"","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#FFF","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#000","button_1_button_hover":"#000000","button_1_link_colour":"#fff","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#444","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#000","button_3_button_hover":"#000000","button_3_link_colour":"#fff","button_3_as_button":"1","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#fff","button_4_as_button":"1","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"1","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"left","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"1","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#000","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"1","bar_heading_text":"","cookie_bar_as":"banner","popup_showagain_position":"bottom-right","widget_position":"left"};
+var log_object = {"ajax_url":"https:\/\/photo-museum.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script src="//photo-museum.org/wp-content/cache/wpfc-minified/f3xb273h/dn3pk.js" type="text/javascript"></script>
+<!-- <script type='text/javascript' src='https://photo-museum.org/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=2.1.2' id='cookie-law-info-js'></script> -->
+<!-- <script type='text/javascript' src='https://photo-museum.org/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.0.4' id='tp-tools-js'></script> -->
+<!-- <script type='text/javascript' src='https://photo-museum.org/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.2.8' id='revmin-js'></script> -->
+<!-- <script type='text/javascript' src='https://photo-museum.org/wp-content/themes/galleria-metropolia/js/debounced-resize.min.js?ver=1.0.0' id='debounced-resize-js'></script> -->
+<!-- <script type='text/javascript' src='https://photo-museum.org/wp-content/themes/galleria-metropolia/js/modernizr.min.js?ver=1.0.0' id='modernizr-js'></script> -->
+<!-- <script type='text/javascript' src='https://photo-museum.org/wp-content/themes/galleria-metropolia/js/respond.min.js?ver=1.0.0' id='respond-js'></script> -->
+<!-- <script type='text/javascript' src='https://photo-museum.org/wp-content/themes/galleria-metropolia/js/jquery.iLightBox.min.js?ver=2.2.0' id='iLightBox-js'></script> -->
+<link rel="https://api.w.org/" href="https://photo-museum.org/es/wp-json/"><link rel="alternate" type="application/json" href="https://photo-museum.org/es/wp-json/wp/v2/pages/1903"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://photo-museum.org/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://photo-museum.org/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 6.0.1">
+<link rel="shortlink" href="https://photo-museum.org/es/?p=1903">
+<link rel="alternate" type="application/json+oembed" href="https://photo-museum.org/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphoto-museum.org%2Fes%2Fhistoria-fotografia%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://photo-museum.org/es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fphoto-museum.org%2Fes%2Fhistoria-fotografia%2F&amp;format=xml">
+<meta name="generator" content="WPML ver:4.5.8 stt:1,4,2;">
+<meta name="generator" content="Powered by Slider Revolution 6.2.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
+<link rel="icon" href="https://photo-museum.org/wp-content/uploads/2019/01/favicon.jpg" sizes="32x32">
+<link rel="icon" href="https://photo-museum.org/wp-content/uploads/2019/01/favicon.jpg" sizes="192x192">
+<link rel="apple-touch-icon" href="https://photo-museum.org/wp-content/uploads/2019/01/favicon.jpg">
+<meta name="msapplication-TileImage" content="https://photo-museum.org/wp-content/uploads/2019/01/favicon.jpg">
+<script type="text/javascript">function setREVStartSize(e){
+//window.requestAnimationFrame(function() {				 
+window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+try {								
+var pw = document.getElementById(e.c).parentNode.offsetWidth,
+newh;
+pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+newh = Math.max(e.mh,window.RSIH);					
+else{					
+e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+var nl = new Array(e.rl.length),
+ix = 0,						
+sl;					
+e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+sl = nl[0];									
+for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+}				
+if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+document.getElementById(e.c).height = newh+"px";
+window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+} catch(e){
+console.log("Failure at Presize of Slider:" + e)
+}					   
+//});
+};</script>
+<style type="text/css" id="wp-custom-css">
+.headline_outer {
+background-position: 50% 45%;
+}
+.cmsmasters_img .cmsmasters_img_caption {
+text-align: right;
+padding: 6px 0;
+font-size: 10px;
+line-height: 12px;
+}
+h5 {
+letter-spacing: 0.05em;
+}
+.widget_nav_menu .menu > li > a {
+font-size: 13px;
+line-height: 19px;
+text-transform: uppercase;
+}
+.widget_nav_menu .menu > li.current_page_item > a {
+font-weight: bold;
+}
+.gallery {
+margin: 0 -1.72% 0px;
+}
+.wp-caption {
+padding: 6px 0px 0;
+margin-bottom: 6px;
+}
+.wp-caption .wp-caption-text {
+padding: 8px 0;
+text-align: left;
+}
+.wp-caption.alignleft {
+margin-right: 1.5rem;
+}
+.wp-caption.alignright {
+margin-left: 1.5rem;
+}
+.cmsmasters_icon_list_items.cmsmasters_icon_list_type_block .cmsmasters_icon_list_item {
+padding: 0 0 24px;
+}
+.cmsmasters_button, 
+.button, 
+input[type=submit], 
+input[type=button], 
+button {
+font-size:12px;
+line-height:28px;
+}		</style>
+</head>
+<body data-rsssl="1" class="page-template-default page page-id-1903">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0.49803921568627"></feFuncR><feFuncG type="table" tableValues="0 0.49803921568627"></feFuncG><feFuncB type="table" tableValues="0 0.49803921568627"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 1"></feFuncR><feFuncG type="table" tableValues="0 0.27843137254902"></feFuncG><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0 0"></feFuncR><feFuncG type="table" tableValues="0 0.64705882352941"></feFuncG><feFuncB type="table" tableValues="0 1"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.78039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.94901960784314"></feFuncG><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745"></feFuncR><feFuncG type="table" tableValues="0 1"></feFuncG><feFuncB type="table" tableValues="0.44705882352941 0.4"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></feColorMatrix><feComponentTransfer color-interpolation-filters="sRGB"><feFuncR type="table" tableValues="0.098039215686275 1"></feFuncR><feFuncG type="table" tableValues="0 0.66274509803922"></feFuncG><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725"></feFuncB><feFuncA type="table" tableValues="1 1"></feFuncA></feComponentTransfer><feComposite in2="SourceGraphic" operator="in"></feComposite></filter></defs></svg>
+<div class="cmsmasters_header_search_form">
+<span class="cmsmasters_header_search_form_close cmsmasters_theme_icon_cancel"></span><form method="get" action="https://photo-museum.org/es/">
+<div class="cmsmasters_header_search_form_field">
+<button type="submit" class="cmsmasters_theme_icon_search"></button>
+<input type="search" name="s" placeholder="Search..." value="">
+</div>
+</form></div>
+<!-- Start Page -->
+<div id="page" class="chrome_only cmsmasters_liquid fixed_header enable_header_top cmsmasters_heading_after_header hfeed site">
+<!-- Start Main -->
+<div id="main">
+<!-- Start Header -->
+<header id="header">
+<div class="header_top" data-height="38"><div class="header_top_outer"><div class="header_top_inner">
+<div class="social_wrap">
+<div class="social_wrap_inner">
+<ul>
+<li>
+<a href="https://www.facebook.com/pages/Mus%C3%A9e-Maison-Nic%C3%A9phore-Ni%C3%A9pce/216056531739090" class="cmsmasters_social_icon cmsmasters_social_icon_1 cmsmasters-icon-facebook-1 cmsmasters_social_icon_color" title="Facebook" target="_blank"></a>
+</li>
+<li>
+<a href="https://twitter.com/MaisonNiepce" class="cmsmasters_social_icon cmsmasters_social_icon_2 cmsmasters-icon-twitter cmsmasters_social_icon_color" title="Twitter" target="_blank"></a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCDQwgtMWCTQtLlsYOB5RIPg" class="cmsmasters_social_icon cmsmasters_social_icon_3 cmsmasters-icon-youtube-play cmsmasters_social_icon_color" title="Youtube" target="_blank"></a>
+</li>
+<li>
+<a href="https://www.flickr.com/photos/maisonnicephoreniepce/" class="cmsmasters_social_icon cmsmasters_social_icon_4 cmsmasters-icon-flickr-circled cmsmasters_social_icon_color" title="Flickr" target="_blank"></a>
+</li>
+</ul>
+</div>
+</div></div></div><div class="header_top_but closed"><span class="cmsmasters_theme_icon_slide_bottom"></span></div></div><div class="header_mid" data-height="130" style="height: auto;"><div class="header_mid_outer"><div class="header_mid_inner"><div class="logo_wrap"><a href="https://photo-museum.org/es/" title="Musée Photo Maison Nicéphore Niépce" class="logo">
+<img src="https://photo-museum.org/wp-content/uploads/2020/05/logo_niepce_house.png" alt="Musée Photo Maison Nicéphore Niépce"><img class="logo_retina" src="https://photo-museum.org/wp-content/uploads/2020/05/logo_niepce_house_retina.png" alt="Musée Photo Maison Nicéphore Niépce" width="199" height="112"></a>
+</div><div class="header_mid_inner_cont"><div class="resp_mid_nav_wrap"><div class="resp_mid_nav_outer"><a class="responsive_nav resp_mid_nav cmsmasters_theme_icon_resp_nav" href="javascript:void(0)"></a></div></div><div class="mid_search_but_wrap"><a href="javascript:void(0)" class="mid_search_but cmsmasters_header_search_but cmsmasters_theme_icon_search"></a></div></div><!-- Start Navigation --><div class="mid_nav_wrap"><nav><div class="menu-menu-principal-espagnol-container"><ul id="navigation" class="mid_nav navigation"><li id="menu-item-18857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18857 menu-item-mega menu-item-mega-cols-three menu-item-mega-fullwidth menu-item-depth-0"><a href="#"><span class="nav_item_wrap"><span class="nav_title">Historia</span></span><span class="cmsmasters_resp_nav_toggle cmsmasters_theme_icon_resp_nav_slide_down"></span></a>
+<div class="menu-item-mega-container" style="">
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-22432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22432 menu-item-depth-1"><a href="#"><span class="nav_item_wrap"><span class="nav_title">Historial de la Casa</span></span><span class="cmsmasters_resp_nav_toggle cmsmasters_theme_icon_resp_nav_slide_down"></span></a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-18861" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18861 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/restauracion-casa-niepce/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">La restauración de la Casa</span></span></a>		</li>
+<li id="menu-item-22433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22433 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/historial-casa-niepce/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Historial de la propiedad de Gras</span></span></a>		</li>
+<li id="menu-item-18859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18859 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/niepce-saint-loup-de-varennes/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Los Niépce en Saint-Loup-de-Varennes</span></span></a>		</li>
+<li id="menu-item-18860" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18860 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/daguerre-saint-loup-de-varennes/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Daguerre en Saint-Loup-de-Varennes</span></span></a>		</li>
+<li id="menu-item-18863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18863 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/procedimientos-reconstituidos-niepce/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Los procedimientos reconstituídos</span></span></a>		</li>
+</ul>
+</li>
+<li id="menu-item-22434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22434 menu-item-depth-1"><a href="https://photo-museum.org/es/el-taller-de-fotografia-lo-mas-antiguo-del-mundo/"><span class="nav_item_wrap"><span class="nav_title">El taller de fotografía lo más antiguo del mundo</span></span></a>	</li>
+<li id="menu-item-22438" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22438 menu-item-depth-1"><a href="#"><span class="nav_item_wrap"><span class="nav_title">Galeria de fotos</span></span><span class="cmsmasters_resp_nav_toggle cmsmasters_theme_icon_resp_nav_slide_down"></span></a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-22437" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22437 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/restauracion-de-la-casa-galeria-de-fotos/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Restauración de la casa</span></span></a>		</li>
+<li id="menu-item-22436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22436 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/saint-loup-de-varennes-hoy-galeria-de-fotos/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Saint-Loup-de-Varennes hoy</span></span></a>		</li>
+<li id="menu-item-22435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22435 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/casas-de-la-familia-niepce-galeria-de-fotos/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Casas de la familia Niépce</span></span></a>		</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li id="menu-item-18864" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-18864 menu-item-mega menu-item-mega-cols-four menu-item-mega-fullwidth menu-item-depth-0"><a href="#"><span class="nav_item_wrap"><span class="nav_title">Inventos de Niépce</span></span><span class="cmsmasters_resp_nav_toggle cmsmasters_theme_icon_resp_nav_slide_down"></span></a>
+<div class="menu-item-mega-container" style="">
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-22440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-22440 menu-item-depth-1"><a href="#"><span class="nav_item_wrap"><span class="nav_title">Descubrir Nicéphore Niépce</span></span><span class="cmsmasters_resp_nav_toggle cmsmasters_theme_icon_resp_nav_slide_down"></span></a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-18866" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18866 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/vida-nicephore-niepce/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">La vida de Nicéphore Niépce</span></span></a>		</li>
+<li id="menu-item-22441" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22441 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/niepce-correspondencias-y-documentos-la/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Niépce correspondencias y documentos</span></span></a>		</li>
+<li id="menu-item-18867" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18867 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/catalogo-obras-niepce/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Catálogo de las obras de Niépce</span></span></a>		</li>
+</ul>
+</li>
+<li id="menu-item-20136" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-20136 menu-item-depth-1"><a href="#"><span class="nav_item_wrap"><span class="nav_title">La invención de la Fotografía</span></span><span class="cmsmasters_resp_nav_toggle cmsmasters_theme_icon_resp_nav_slide_down"></span></a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-18869" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18869 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/niepce-invencion-photografia/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Niépce y la invención de la Fotografía</span></span></a>		</li>
+<li id="menu-item-18871" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18871 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/daguerre-invencion-foto/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Daguerre y la invención de la Fotografía</span></span></a>		</li>
+<li id="menu-item-18870" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18870 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/niepce-nicephore-daguerre-invencion-fisautotipo/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Nicéphore Niépce, Daguerre y el Fisautotipo</span></span></a>		</li>
+<li id="menu-item-18872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18872 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/isidore-niepce-daguerre-contrato/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Isidore Niépce y Daguerre</span></span></a>		</li>
+<li id="menu-item-20137" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1903 current_page_item menu-item-20137 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/historia-fotografia/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Después de Niépce y Daguerre</span></span></a>		</li>
+<li id="menu-item-18862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18862 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/procedimientos-betun-niepce/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Los procedimientos a base de betún según Niépce</span></span></a>		</li>
+</ul>
+</li>
+<li id="menu-item-18873" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18873 menu-item-depth-1"><a href="#"><span class="nav_item_wrap"><span class="nav_title">El primer motor a combustión interna</span></span><span class="cmsmasters_resp_nav_toggle cmsmasters_theme_icon_resp_nav_slide_down"></span></a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-18874" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18874 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/el-pireoloforo-un-nuevo-principio-motor/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">El Pireolóforo: un nuevo principio motor</span></span></a>		</li>
+<li id="menu-item-23542" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23542 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/bicentenario-del-pireoloforo/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Bicentenario del Pireolóforo</span></span></a>		</li>
+<li id="menu-item-23541" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23541 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/el-pireoloforo-entra-en-el-musee-des-arts-et-metiers/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">El Pireolóforo entra en el Musée des Arts et Métiers</span></span></a>		</li>
+</ul>
+</li>
+<li id="menu-item-18875" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18875 menu-item-depth-1"><a href="#"><span class="nav_item_wrap"><span class="nav_title">Otros Inventos</span></span><span class="cmsmasters_resp_nav_toggle cmsmasters_theme_icon_resp_nav_slide_down"></span></a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-18876" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18876 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/asclepias-niepce-invencion/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Las Asclepeadaceas de Siria</span></span></a>		</li>
+<li id="menu-item-18877" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18877 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/giraumon-niepce-invencion/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">El giromón</span></span></a>		</li>
+<li id="menu-item-18878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18878 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/velocipedo-invencion-niepce/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">El velocípedo</span></span></a>		</li>
+<li id="menu-item-18879" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18879 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/piedras-litograficas-invencion-niepce/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Las piedras litográficas</span></span></a>		</li>
+<li id="menu-item-18880" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18880 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/maquina-marly-invencion-niepce/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">La máquina de Marly</span></span></a>		</li>
+<li id="menu-item-18881" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18881 menu-item-depth-subitem menu-item-icon"><a href="https://photo-museum.org/es/pastel-invencion-niepce/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">El pastel</span></span></a>		</li>
+</ul>
+</li>
+</ul>
+</div>
+</li>
+<li id="menu-item-18888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18888 menu-item-depth-0"><a href="#"><span class="nav_item_wrap"><span class="nav_title">Visitar</span></span><span class="cmsmasters_resp_nav_toggle cmsmasters_theme_icon_resp_nav_slide_down"></span></a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-18889" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18889 menu-item-depth-1 menu-item-icon"><a href="https://photo-museum.org/es/visitar-casa/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Visitar la casa</span></span></a>	</li>
+<li id="menu-item-22444" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22444 menu-item-depth-1 menu-item-icon"><a href="https://photo-museum.org/es/albergue-y-restauracion/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Albergue y restauración</span></span></a>	</li>
+<li id="menu-item-22442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22442 menu-item-depth-1 menu-item-icon"><a href="https://photo-museum.org/es/descubrimiento-de-la-borgona-ruta-de-la-fotografia/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">La «ruta de la fotografía»</span></span></a>	</li>
+<li id="menu-item-22445" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22445 menu-item-depth-1 menu-item-icon"><a href="https://photo-museum.org/es/visitors-books/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Los libros de visitantes</span></span></a>	</li>
+<li id="menu-item-22443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22443 menu-item-depth-1 menu-item-icon"><a href="https://photo-museum.org/es/prensa/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-custom-arrow-thin-right">Prensa</span></span></a>	</li>
+</ul>
+</li>
+<li id="menu-item-18890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18890 menu-item-depth-0"><a href="#"><span class="nav_item_wrap"><span class="nav_title">Noticias y contacto</span></span><span class="cmsmasters_resp_nav_toggle cmsmasters_theme_icon_resp_nav_slide_down"></span></a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-18891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18891 menu-item-depth-1 menu-item-icon"><a href="https://photo-museum.org/es/eventos-noticias/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-newspaper-1">Eventos y noticias</span></span></a>	</li>
+<li id="menu-item-18892" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18892 menu-item-depth-1 menu-item-icon"><a href="https://photo-museum.org/es/contacto-equipo/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-envelope-empty">Contacto</span></span></a>	</li>
+<li id="menu-item-18893" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18893 menu-item-depth-1 menu-item-icon"><a href="https://photo-museum.org/es/agradecidos-maison-niepce/"><span class="nav_item_wrap"><span class="nav_title cmsmasters-icon-thumbs-up-3">Patrocinio y agradecimientos</span></span></a>	</li>
+</ul>
+</li>
+<li id="menu-item-wpml-ls-18-es" class="menu-item wpml-ls-slot-18 wpml-ls-item wpml-ls-item-es wpml-ls-current-language wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-18-es menu-item-depth-0"><a title="Es" href="https://photo-museum.org/es/historia-fotografia/"><span class="nav_item_wrap"><span class="nav_title"><img class="wpml-ls-flag" src="https://photo-museum.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt=""><span class="wpml-ls-display">Es</span></span></span><span class="cmsmasters_resp_nav_toggle cmsmasters_theme_icon_resp_nav_slide_down"></span></a>
+<ul class="sub-menu" style="display: none;">
+<li id="menu-item-wpml-ls-18-en" class="menu-item wpml-ls-slot-18 wpml-ls-item wpml-ls-item-en wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-18-en menu-item-depth-1"><a title="En" href="https://photo-museum.org/after-niepce-and-daguerre/"><span class="nav_item_wrap"><span class="nav_title"><img class="wpml-ls-flag" src="https://photo-museum.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt=""><span class="wpml-ls-display">En</span></span></span></a>	</li>
+<li id="menu-item-wpml-ls-18-fr" class="menu-item wpml-ls-slot-18 wpml-ls-item wpml-ls-item-fr wpml-ls-menu-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-18-fr menu-item-depth-1"><a title="Fr" href="https://photo-museum.org/fr/histoire-photographie/"><span class="nav_item_wrap"><span class="nav_title"><img class="wpml-ls-flag" src="https://photo-museum.org/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" alt=""><span class="wpml-ls-display">Fr</span></span></span></a>	</li>
+</ul>
+</li>
+</ul></div></nav></div><!-- Finish Navigation --></div></div></div></header>
+<!-- Finish Header -->
+<!-- Start Middle -->
+<div id="middle">
+<div class="headline cmsmasters_color_scheme_default">
+<div class="headline_outer">
+<div class="headline_color"></div><div class="headline_inner align_center">
+<div class="headline_aligner"></div><div class="headline_text"><h1 class="entry-title"><span>Historia de la fotografía</span></h1><div class="cmsmasters_breadcrumbs"><div class="cmsmasters_breadcrumbs_inner"><a href="https://photo-museum.org/es/" class="cms_home">Home</a>
+<span class="breadcrumbs_sep"> / </span>
+<span>Historia de la fotografía</span></div></div></div></div></div></div><div class="middle_inner">
+<div class="content_wrap r_sidebar">
+<!-- Start Content -->
+<div class="content entry">
+<div id="cmsmasters_row_" class="cmsmasters_row cmsmasters_color_scheme_default cmsmasters_row_top_default cmsmasters_row_bot_default cmsmasters_row_boxed">
+<div class="cmsmasters_row_outer_parent">
+<div class="cmsmasters_row_outer">
+<div class="cmsmasters_row_inner">
+<div class="cmsmasters_row_margin cmsmasters_11">
+<div id="cmsmasters_column_" class="cmsmasters_column one_first">
+<div class="cmsmasters_column_inner"><div class="cmsmasters_text">
+<h3>Nicéphore Niépce y Daguerre</h3>
+<p>El primer procedimiento fotográfico o heliográfico fue inventado por Niépce hacia 1824. Las imágenes eran obtenidas con <strong>betún de Judea, extendido sobre una placa de plata</strong>, luego de un tiempo de exposición de varios días.<br>
+En 1829, Niépce asocia a Louis Jacques Mandé Daguerre en sus investigaciones.<br>
+En 1832, ponen a punto, a partir del residuo de la destilación de la esencia de lavanda, un segundo procedimiento que produce imágenes con un tiempo de exposición de un día entero.</p>
+<figure id="attachment_602" aria-describedby="caption-attachment-602" style="width: 197px" class="wp-caption alignleft"><img class="lazy-hidden wp-image-602 size-full" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Hippolyte_Bayard_1863.jpg" alt="Portrait de Hippolyte Bayard, 1801-1887" width="197" height="240"><noscript><img class="wp-image-602 size-full" src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Hippolyte_Bayard_1863.jpg" alt="Portrait de Hippolyte Bayard, 1801-1887" width="197" height="240" /></noscript><figcaption id="caption-attachment-602" class="wp-caption-text">Hippolyte Bayard, 1801-1887</figcaption></figure>
+<p>Niépce muere en 1833. Daguerre continúa trabajando solo e inventa, en 1838,<strong> el daguerrotipo</strong>, primer procedimiento que comprende una etapa de revelado. Una placa de plata recubierta de una fina capa de ioduro de plata era expuesta en la cámara oscura y luego sometida a la acción de vapores de mercurio que provocaban la aparición de la imagen latente invisible, formada en el curso de la exposición a la luz.<br>
+Este revelado consistía en una gran amplificación del efecto de la luz, con lo cual el tiempo de exposición no pasaba de los 30 minutos. El fijado era obtenido por inmersión en agua, saturada de sales marinas.</p>
+<h3>Hippolyte Bayard</h3>
+<p>En julio de 1839, otro francés, Hippolyte Bayard, descubre el medio de obtener <strong>imágenes positivas directamente sobre papel</strong>. Un papel recubierto de cloruro de plata era oscurecido a la luz y luego expuesto en la cámara oscura después de haber sido impregnado en Ioduro de plata. El tiempo de exposición era de treinta minutos a dos horas.</p>
+<figure id="attachment_606" aria-describedby="caption-attachment-606" style="width: 190px" class="wp-caption alignleft"><a href="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-William_Henry_Fox_Talbot.jpg"><img loading="lazy" class="lazy-hidden wp-image-606 size-full" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-William_Henry_Fox_Talbot.jpg" alt="Portrait de William Henry Fox Talbot, 1800-1877" width="190" height="240"><noscript><img loading="lazy" class="wp-image-606 size-full" src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-William_Henry_Fox_Talbot.jpg" alt="Portrait de William Henry Fox Talbot, 1800-1877" width="190" height="240" /></noscript></a><figcaption id="caption-attachment-606" class="wp-caption-text">Fox Talbot, 1800-1877</figcaption></figure>
+<h3>William Henry Fox Talbot</h3>
+<p>Siempre en 1839, el anuncio del invento del daguerrotipo incitó al inglés William Henry Fox Talbot a retomar las investigaciones interrumpidas cuyos comienzos remontaban a 1834. En 1841, patentó el calotipo, <strong>primer procedimiento negativo/positivo</strong> que permitía la multiplicación de una misma imagen gracias a la obtención de un negativo intermediario sobre un papel al cloruro de plata, vuelto translúcido gracias a la cera. Como con el daguerrotipo, la imagen latente era revelada luego, por medio de un producto químico, el revelador: una solución de ácido gálico y de nitrato de plata. Una segunda hoja de papel recubierta también de cloruro de plata era mas tarde expuesta a través del negativo translúcido, para dar el positivo final.</p>
+<h3>John Herschell</h3>
+<figure id="attachment_604" aria-describedby="caption-attachment-604" style="width: 188px" class="wp-caption alignright"><img loading="lazy" class="lazy-hidden wp-image-604 size-full" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-John_Herschel.jpg" alt="histoire-photographie-John_Herschel" width="188" height="240"><noscript><img loading="lazy" class="wp-image-604 size-full" src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-John_Herschel.jpg" alt="histoire-photographie-John_Herschel" width="188" height="240" /></noscript><figcaption id="caption-attachment-604" class="wp-caption-text">John Herschell, 1792-1871</figcaption></figure>
+<p>En 1839 se le debe a John Herschell el descubrimiento del medio para fijar las imágenes, sumergiéndolas en un <strong>baño de hiposulfito de sodio</strong>, el mismo componente esencial de los fijadores fotográficos actuales. Las ventajas del calotipo reposaban principalmente en la facilidad de la manipulación de las copias sobre papel y de la posibilidad de reproducción múltiple. En revancha, la definición , limitada por la presencia de las fibras del papel negativo, no podía rivalizar con el daguerrotipo.</p>
+<h3 id="firstHeading" class="firstHeading" lang="fr"><span dir="auto">Hippolyte Fizeau</span></h3>
+<p>Para reducir aún más el tiempo de exposición, se crearon objetivos de focales cortas, mas luminosos, por lo tanto, conservando la nitidez en toda la imagen. En 1841, el físico Fizeau reemplazó el ioduro de plata por el <strong>bromuro de plata</strong> cuya sensibilidad a la luz es muy superior. Nada más que algunos segundos de exposición eran suficientes para obtener un daguerrotipo. Entonces tomar retratos se volvía posible.</p>
+<figure id="attachment_1746" aria-describedby="caption-attachment-1746" style="width: 270px" class="wp-caption alignright"><img loading="lazy" class="lazy-hidden wp-image-1746" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://photo-museum.org/wp-content/uploads/2015/03/histoire-photographie-Abel-Niepce-de-Saint-Victor-premier-negatif-plaque-verre-_.jpg" alt="" width="270" height="201" srcset="" data-srcset="https://photo-museum.org/wp-content/uploads/2015/03/histoire-photographie-Abel-Niepce-de-Saint-Victor-premier-negatif-plaque-verre-_.jpg 322w, https://photo-museum.org/wp-content/uploads/2015/03/histoire-photographie-Abel-Niepce-de-Saint-Victor-premier-negatif-plaque-verre-_-300x224.jpg 300w" sizes="(max-width: 270px) 100vw, 270px"><noscript><img loading="lazy" class="wp-image-1746" src="https://photo-museum.org/wp-content/uploads/2015/03/histoire-photographie-Abel-Niepce-de-Saint-Victor-premier-negatif-plaque-verre-_.jpg" alt="" width="270" height="201" srcset="https://photo-museum.org/wp-content/uploads/2015/03/histoire-photographie-Abel-Niepce-de-Saint-Victor-premier-negatif-plaque-verre-_.jpg 322w, https://photo-museum.org/wp-content/uploads/2015/03/histoire-photographie-Abel-Niepce-de-Saint-Victor-premier-negatif-plaque-verre-_-300x224.jpg 300w" sizes="(max-width: 270px) 100vw, 270px" /></noscript><figcaption id="caption-attachment-1746" class="wp-caption-text">Abel Niépce de Saint-Victor,sustituye el papel por el vidrio.</figcaption></figure>
+<h3>Abel Niépce de Saint-Victor</h3>
+<p>Con el fin de mejorar la transparencia del calotipo negativo, Abel Niépce de Saint Victor, primo de Niépce, descubrió en 1847 la forma de <strong>reemplazar el papel por el vidrio</strong>. Para que el bromuro de plata pueda adherirse al vidrio, tuvo la idea de mezclarlo con la albúmina (el blanco del huevo). Aunque un poco contrastadas, la imágenes se volvieron extremadamente precisas, obligando a los ópticos a poner a punto objetivos aún mas eficientes.</p>
+<figure id="attachment_23459" aria-describedby="caption-attachment-23459" style="width: 130px" class="wp-caption alignleft"><img loading="lazy" class="lazy-hidden wp-image-23459" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://photo-museum.org/wp-content/uploads/2019/11/Frederick_Scott_Archer.jpg" alt="" width="130" height="179" srcset="" data-srcset="https://photo-museum.org/wp-content/uploads/2019/11/Frederick_Scott_Archer.jpg 260w, https://photo-museum.org/wp-content/uploads/2019/11/Frederick_Scott_Archer-218x300.jpg 218w" sizes="(max-width: 130px) 100vw, 130px"><noscript><img loading="lazy" class="wp-image-23459" src="https://photo-museum.org/wp-content/uploads/2019/11/Frederick_Scott_Archer.jpg" alt="" width="130" height="179" srcset="https://photo-museum.org/wp-content/uploads/2019/11/Frederick_Scott_Archer.jpg 260w, https://photo-museum.org/wp-content/uploads/2019/11/Frederick_Scott_Archer-218x300.jpg 218w" sizes="(max-width: 130px) 100vw, 130px" /></noscript><figcaption id="caption-attachment-23459" class="wp-caption-text">Frederick Scott Archer</figcaption></figure>
+<h3>Scott Archer</h3>
+<p>En 1851, el inglés Scott Archer reemplazó la albúmina por el colodión cuya base es el algodón pólvora. Las imágenes blanco y negro obtenidas por este procedimiento alcanzaron una calidad nunca más obtenida. Con el inconveniente, de que la toma debía tener lugar mientras que la placa estaba aún húmeda y que el revelado debía efectuarse inmediatamente después.</p>
+<figure id="attachment_605" aria-describedby="caption-attachment-605" style="width: 174px" class="wp-caption alignright"><img loading="lazy" class="lazy-hidden wp-image-605 size-full" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Richard-Maddox.jpg" alt="Portrait de Richard Maddox, 1816-1902" width="174" height="240"><noscript><img loading="lazy" class="wp-image-605 size-full" src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Richard-Maddox.jpg" alt="Portrait de Richard Maddox, 1816-1902" width="174" height="240" /></noscript><figcaption id="caption-attachment-605" class="wp-caption-text">Richard Maddox, 1816-1902</figcaption></figure>
+<h3>Richard Maddox et Charles Bennet</h3>
+<p>En 1871, otro británico, Richard Meaddox, remedió ese problema reemplazando al Colodión por la <strong>gelatina</strong>, procedimiento perfeccionado por Charles Bennet quien demostró que las placas gelatinizadas adquirían una gran sensibilidad cuando uno las mantenía durante varios días a 32° C. Las placas al gelatino-bromuro no solo podían ser almacenadas antes de usarse, sino que su sensibilidad era tal, que la exposición no excedía de la fracción de segundo.</p>
+<p>Por esa razón, poco antes de 1880, comienza la <strong>historia del obturador</strong>, porque la alta sensibilidad de las placas necesitaba de la concepción de mecanismos capaces de dejar entrar la luz en la cámara durante solo un centésimo y aún un milésimo de segundo. Debía evaluarse precisamente la intensidad de la luz y así el fotómetro se convirtió en un verdadero instrumento de medida.</p>
+<figure id="attachment_610" aria-describedby="caption-attachment-610" style="width: 179px" class="wp-caption alignright"><a href="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-George_Eastman_7.jpg"><img loading="lazy" class="lazy-hidden size-full wp-image-610" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-George_Eastman_7.jpg" alt="George Eastman, 1854-1932" width="179" height="240"><noscript><img loading="lazy" class="size-full wp-image-610" src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-George_Eastman_7.jpg" alt="George Eastman, 1854-1932" width="179" height="240" /></noscript></a><figcaption id="caption-attachment-610" class="wp-caption-text">George Eastman, 1854-1932</figcaption></figure>
+<h3>Georges Eastman</h3>
+<p>El estadounidense Georges Eastman, fundador de Kodak, concebirá en 1888, la idea de un soporte blando. Las placas de vidrio serán progresivamente reemplazadas por los rollos de celuloide.</p>
+<h3>La reproducción de los colores</h3>
+<p>Le faltaba todavía a la fotografía, la reproducción de los colores. Las primeras tentativas fueron la iniciativa de Edmond Becquerel en 1848, luego la de Niépce de Saint Victor, en 1851, quienes demostraron que una placa de plata recubierta de cloruro de plata puro reproducía directamente los colores, aunque de manera inestable.</p>
+<p>En 1869, Louis Ducos du Hauron logra, en Agen, la primera fotografía en colores aplicando el principio demostrado por Maxwell de la descomposición de la luz por intermedio de los tres colores fundamentales, el rojo, el amarillo y el azul. Este realizó tres fotografías de un mismo tema, a través de un filtro respectivamente rojo, azul y amarillo. De estos obtuvo tres positivos del mismo color de cada uno de los filtros utilizados. Superponiendo exactamente las tres imágenes, obtuvo la restitución de los colores.</p>
+<figure id="attachment_609" aria-describedby="caption-attachment-609" style="width: 250px" class="wp-caption alignleft"><a href="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Gabriel_Lippmann-.jpg"><img loading="lazy" class="lazy-hidden wp-image-609" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Gabriel_Lippmann-.jpg" alt="Autoportrait de Gabriel Lippmann" width="250" height="167" srcset="" data-srcset="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Gabriel_Lippmann-.jpg 360w, https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Gabriel_Lippmann--300x200.jpg 300w" sizes="(max-width: 250px) 100vw, 250px"><noscript><img loading="lazy" class="wp-image-609" src="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Gabriel_Lippmann-.jpg" alt="Autoportrait de Gabriel Lippmann" width="250" height="167" srcset="https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Gabriel_Lippmann-.jpg 360w, https://photo-museum.org/wp-content/uploads/2015/01/histoire-photographie-Gabriel_Lippmann--300x200.jpg 300w" sizes="(max-width: 250px) 100vw, 250px" /></noscript></a><figcaption id="caption-attachment-609" class="wp-caption-text">Auto-retrato de Gabriel Lippmann</figcaption></figure>
+<p>El físico <strong>Gabriel Lippman</strong> recibió el Premio Nobel en 1906, por haber descubierto en 1891, el medio de obtener fotografías directamente en colores sobre una misma placa, por medio de un procedimiento interferencial que ya prefiguraba la holografía. Demasiado compleja, esta invención no trascendió el estadio del laboratorio.</p>
+<p>El primer procedimiento mono placa color que pudo ser utilizado por aficionados nació en 1906. <strong>El autocromo inventado por los hermanos Lumière</strong> retomaba el principio de la síntesis de tricromía lograda esta vez en un sola placa por medio del añadido de un mosaico de micro filtros de tres colores realizado gracias a granos de fécula de papa.</p>
+<p>El descubrimiento del revelador cromógeno por R. Fisher desde 1911, ofreció a la fotografía en color una nueva dirección. Se había observado que algunos reveladores producían imágenes con un color dominante en lugar de un blanco y negro neutros.</p>
+<figure id="attachment_1389" aria-describedby="caption-attachment-1389" style="width: 178px" class="wp-caption alignright"><a href="https://photo-museum.org/wp-content/uploads/2015/02/histoire-photographie-freres-Lumiere.jpg"><img loading="lazy" class="lazy-hidden wp-image-1389" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://photo-museum.org/wp-content/uploads/2015/02/histoire-photographie-freres-Lumiere.jpg" alt="Les frères Auguste Lumière (1862-1954) et Louis Lumière (1864-1948)." width="178" height="190" srcset="" data-srcset="https://photo-museum.org/wp-content/uploads/2015/02/histoire-photographie-freres-Lumiere.jpg 356w, https://photo-museum.org/wp-content/uploads/2015/02/histoire-photographie-freres-Lumiere-281x300.jpg 281w" sizes="(max-width: 178px) 100vw, 178px"><noscript><img loading="lazy" class="wp-image-1389" src="https://photo-museum.org/wp-content/uploads/2015/02/histoire-photographie-freres-Lumiere.jpg" alt="Les frères Auguste Lumière (1862-1954) et Louis Lumière (1864-1948)." width="178" height="190" srcset="https://photo-museum.org/wp-content/uploads/2015/02/histoire-photographie-freres-Lumiere.jpg 356w, https://photo-museum.org/wp-content/uploads/2015/02/histoire-photographie-freres-Lumiere-281x300.jpg 281w" sizes="(max-width: 178px) 100vw, 178px" /></noscript></a><figcaption id="caption-attachment-1389" class="wp-caption-text">Los hermanos Auguste Lumière (1862-1954) y Louis Lumière (1864-1948).</figcaption></figure>
+<p>El principio tri cromo fue retomado por la Empresa Agfa para poner a punto en 1936, las películas Agfacolor, constituidas de tres capas superpuestas sensibles respectivamente al azul, verde y rojo. Fue puesto a punto un revelador que coloreaba las capas según el color de su sensibilidad. Así, la posibilidad de reproducir los colores produjo mejoras en las ópticas, para transmitir fielmente en la película, los colores del objeto.</p>
+<p>En 1935 dos americanos L. Mannès y L. Godowsky mejoraron el procedimiento. Comprado por Kodak, tomó el nombre de Kodachrome. Aunque nuestras películas color actuales sean muy sofisticadas, no impide que tengan que acudir siempre al bromuro de plata, a la gelatina así como al principio de base del Agfacolor y del Kodachrome.</p>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cl"></div></div>
+<!-- Finish Content -->
+<!-- Start Sidebar -->
+<div class="sidebar">
+<aside id="nav_menu-2" class="widget widget_nav_menu"><h3 class="widgettitle">La invención de la Fotografía</h3><div class="menu-invention-of-photography-es-container"><ul id="menu-invention-of-photography-es" class="menu"><li id="menu-item-22469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22469"><a href="https://photo-museum.org/es/niepce-invencion-photografia/">Niépce</a></li>
+<li id="menu-item-22470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22470"><a href="https://photo-museum.org/es/daguerre-invencion-foto/">Daguerre</a></li>
+<li id="menu-item-22471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22471"><a href="https://photo-museum.org/es/niepce-nicephore-daguerre-invencion-fisautotipo/">Niépce y Daguerre</a></li>
+<li id="menu-item-22472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22472"><a href="https://photo-museum.org/es/isidore-niepce-daguerre-contrato/">Isidore Niépce y Daguerre</a></li>
+<li id="menu-item-22473" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1903 current_page_item menu-item-22473"><a href="https://photo-museum.org/es/historia-fotografia/" aria-current="page">Después de Niépce y Daguerre</a></li>
+<li id="menu-item-22474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22474"><a href="https://photo-museum.org/es/procedimientos-betun-niepce/">Los procedimientos a base de betún según Niépce</a></li>
+</ul></div></aside>
+</div>
+<!-- Finish Sidebar -->
+
+</div>
+</div>
+</div>
+<!-- Finish Middle -->
+<!-- Start Bottom -->
+<div id="bottom" class="cmsmasters_color_scheme_default">
+<div class="bottom_bg">
+<div class="bottom_outer">
+<div class="bottom_inner sidebar_layout_14141414">
+<aside id="text-5" class="widget widget_text">			<div class="textwidget"><p><a href="https://speos-photo.com/" target="_blank" rel="noopener"><img loading="lazy" class="lazy-hidden alignleft wp-image-21384 size-full" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://photo-museum.org/wp-content/uploads/2019/11/Speos-logo-2019.png" alt="" width="230" height="44"><noscript><img loading="lazy" class="alignleft wp-image-21384 size-full" src="https://photo-museum.org/wp-content/uploads/2019/11/Speos-logo-2019.png" alt="" width="230" height="44" /></noscript></a></p>
+<p><a href="https://illustres.fr/" target="_blank" rel="noopener"><img loading="lazy" class="lazy-hidden wp-image-21378 size-full alignleft" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="https://photo-museum.org/wp-content/uploads/2019/11/Logo-Club_des_Illustres-102019.png" alt="" width="230" height="115"><noscript><img loading="lazy" class="wp-image-21378 size-full alignleft" src="https://photo-museum.org/wp-content/uploads/2019/11/Logo-Club_des_Illustres-102019.png" alt="" width="230" height="115" /></noscript></a></p>
+</div>
+</aside><aside id="text-3" class="widget widget_text"><h3 class="widgettitle">Casa Nicéphore Niépce</h3>			<div class="textwidget"><p>2 rue Nicéphore Niépce,<br>
+71240 Saint-Loup-de-Varennes<br>
+France </p>
+<p>Teléfono: +33 (0)1 40 09 18 58<br>
+<a href="https://goo.gl/maps/HmKKi3RFsuK2" target="_blank" rel="noopener">Plan de acceso</a></p>
+</div>
+</aside><aside id="text-4" class="widget widget_text"><h3 class="widgettitle">Visitar la casa</h3>			<div class="textwidget"><p>Abierto del <strong>1<sup>ero</sup> de Julio al 31 de Agosto</strong>, todos los días (excepto los martes) de las 10 de la mañana a las 6 de la tarde</p>
+</div>
+</aside><aside id="text-9" class="widget widget_text"><h3 class="widgettitle">Redes sociales</h3>			<div class="textwidget"><ul>
+<li><a href="https://twitter.com/MaisonNiepce" target="_blank" rel="noopener">Twitter</a></li>
+<li><a href="https://www.facebook.com/pages/Mus%C3%A9e-Maison-Nic%C3%A9phore-Ni%C3%A9pce/216056531739090" target="_blank" rel="noopener">Facebook</a></li>
+<li><a href="https://www.flickr.com/photos/maisonnicephoreniepce/" target="_blank" rel="noopener">Flickr</a></li>
+</ul>
+<a href="https://photo-museum.org/es/avisos-juridicos/">Avisos jurídicos</a></div>
+</aside>				</div>
+</div>
+</div>
+</div>
+<!-- Finish Bottom -->
+<a href="javascript:void(0)" id="slide_top" class="cmsmasters_theme_icon_slide_to_top"><span></span></a>
+</div>
+<!-- Finish Main -->
+<!-- Start Footer -->
+<footer id="footer">
+<div class="footer cmsmasters_color_scheme_default cmsmasters_footer_small">
+<div class="footer_inner">
+<div class="footer_inner_cont">
+<div class="social_wrap">
+<div class="social_wrap_inner">
+<ul>
+<li>
+<a href="https://www.facebook.com/pages/Mus%C3%A9e-Maison-Nic%C3%A9phore-Ni%C3%A9pce/216056531739090" class="cmsmasters_social_icon cmsmasters_social_icon_1 cmsmasters-icon-facebook-1 cmsmasters_social_icon_color" title="Facebook" target="_blank"></a>
+</li>
+<li>
+<a href="https://twitter.com/MaisonNiepce" class="cmsmasters_social_icon cmsmasters_social_icon_2 cmsmasters-icon-twitter cmsmasters_social_icon_color" title="Twitter" target="_blank"></a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCDQwgtMWCTQtLlsYOB5RIPg" class="cmsmasters_social_icon cmsmasters_social_icon_3 cmsmasters-icon-youtube-play cmsmasters_social_icon_color" title="Youtube" target="_blank"></a>
+</li>
+<li>
+<a href="https://www.flickr.com/photos/maisonnicephoreniepce/" class="cmsmasters_social_icon cmsmasters_social_icon_4 cmsmasters-icon-flickr-circled cmsmasters_social_icon_color" title="Flickr" target="_blank"></a>
+</li>
+</ul>
+</div>
+</div>			<span class="footer_copyright copyright">
+La Casa de Nicéphore Niépce © 2019			</span>
+</div>
+</div>
+</div></footer>
+<!-- Finish Footer -->
+</div>
+<span class="cmsmasters_responsive_width"></span>
+<!-- Finish Page -->
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); font-family: inherit; bottom: 0px; position: fixed; display: block;"><span>This website uses cookies to improve your experience. We'll assume you're ok with this, but you can opt-out if you wish. <a role="button" data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn" style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0);">Accept</a> <a href="https://photo-museum.org/es/avisos-juridicos/" id="CONSTANT_OPEN_URL" target="_blank" class="cli-plugin-main-link" style="color: rgb(68, 68, 68);">Read More</a></span></div><div id="cookie-law-info-again" data-nosnippet="true" style="background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); position: fixed; font-family: inherit; width: auto; bottom: 0px; left: 100px; display: none;"><span id="cookie_hdr_showagain">Privacy &amp; Cookies Policy</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+<div class="cli-modal-dialog" role="document">
+<div class="cli-modal-content cli-bar-popup">
+<button type="button" class="cli-modal-close" id="cliModalClose">
+<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+<span class="wt-cli-sr-only">Cerrar</span>
+</button>
+<div class="cli-modal-body">
+<div class="cli-container-fluid cli-tab-container">
+<div class="cli-row">
+<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+<div class="cli-privacy-overview">
+<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the ...</div>
+</div>
+<a class="cli-privacy-readmore" aria-label="Mostrar más" role="button" data-readmore-text="Mostrar más" data-readless-text="Mostrar menos"></a>			</div>
+</div>
+<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+Necessary							</a>
+<div class="wt-cli-necessary-checkbox">
+<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked">
+<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+</div>
+<span class="cli-necessary-caption">Siempre activado</span>
+</div>
+<div class="cli-tab-content">
+<div class="cli-tab-pane cli-fade" data-id="necessary">
+<div class="wt-cli-cookie-description">
+Necessary cookies are absolutely essential for the website to function properly. This category only includes cookies that ensures basic functionalities and security features of the website. These cookies do not store any personal information.								</div>
+</div>
+</div>
+</div>
+<div class="cli-tab-section">
+<div class="cli-tab-header">
+<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="non-necessary" data-toggle="cli-toggle-tab">
+Non-necessary							</a>
+<div class="cli-switch">
+<input type="checkbox" id="wt-cli-checkbox-non-necessary" class="cli-user-preference-checkbox" data-id="checkbox-non-necessary" checked="checked">
+<label for="wt-cli-checkbox-non-necessary" class="cli-slider" data-cli-enable="Activado" data-cli-disable="Desactivado"><span class="wt-cli-sr-only">Non-necessary</span></label>
+</div>
+</div>
+<div class="cli-tab-content">
+<div class="cli-tab-pane cli-fade" data-id="non-necessary">
+<div class="wt-cli-cookie-description">
+Any cookies that may not be particularly necessary for the website to function and is used specifically to collect user personal data via analytics, ads, other embedded contents are termed as non-necessary cookies. It is mandatory to procure user consent prior to running these cookies on your website.								</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cli-modal-footer">
+<div class="wt-cli-element cli-container-fluid cli-tab-container">
+<div class="cli-row">
+<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">GUARDAR Y ACEPTAR</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><script type="text/javascript" src="https://photo-museum.org/wp-content/plugins/cmsmasters-mega-menu/js/jquery.megaMenu.js?ver=1.2.9" id="megamenu-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/photo-museum.org\/es\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.2" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/cmsmasters-hover-slider.min.js?ver=1.0.0" id="cmsmasters-hover-slider-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/easing.min.js?ver=1.0.0" id="easing-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/easy-pie-chart.min.js?ver=1.0.0" id="easy-pie-chart-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/mousewheel.min.js?ver=1.0.0" id="mousewheel-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/owlcarousel.min.js?ver=1.0.0" id="owlcarousel-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/request-animation-frame.min.js?ver=1.0.0" id="request-animation-frame-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/scrollspy.js?ver=1.0.0" id="scrollspy-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/scroll-to.min.js?ver=1.0.0" id="scroll-to-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/stellar.min.js?ver=1.0.0" id="stellar-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/waypoints.min.js?ver=1.0.0" id="waypoints-js"></script>
+<script type="text/javascript" id="galleria-metropolia-script-js-extra">
+/* <![CDATA[ */
+var cmsmasters_script = {"theme_url":"https:\/\/photo-museum.org\/wp-content\/themes\/galleria-metropolia","site_url":"https:\/\/photo-museum.org\/","ajaxurl":"https:\/\/photo-museum.org\/wp-admin\/admin-ajax.php","nonce_ajax_like":"7f898cd46e","nonce_ajax_view":"407ed5f74d","project_puzzle_proportion":"0.692","gmap_api_key":"","gmap_api_key_notice":"Please add your Google Maps API key","gmap_api_key_notice_link":"read more how","primary_color":"#4c4c4c","ilightbox_skin":"dark","ilightbox_path":"vertical","ilightbox_infinite":"0","ilightbox_aspect_ratio":"1","ilightbox_mobile_optimizer":"1","ilightbox_max_scale":"1","ilightbox_min_scale":"0.2","ilightbox_inner_toolbar":"0","ilightbox_smart_recognition":"0","ilightbox_fullscreen_one_slide":"0","ilightbox_fullscreen_viewport":"center","ilightbox_controls_toolbar":"1","ilightbox_controls_arrows":"0","ilightbox_controls_fullscreen":"1","ilightbox_controls_thumbnail":"1","ilightbox_controls_keyboard":"1","ilightbox_controls_mousewheel":"1","ilightbox_controls_swipe":"1","ilightbox_controls_slideshow":"0","ilightbox_close_text":"Close","ilightbox_enter_fullscreen_text":"Enter Fullscreen (Shift+Enter)","ilightbox_exit_fullscreen_text":"Exit Fullscreen (Shift+Enter)","ilightbox_slideshow_text":"Slideshow","ilightbox_next_text":"Next","ilightbox_previous_text":"Previous","ilightbox_load_image_error":"An error occurred when trying to load photo.","ilightbox_load_contents_error":"An error occurred when trying to load contents.","ilightbox_missing_plugin_error":"The content your are attempting to view requires the <a href='{pluginspage}' target='_blank'>{type} plugin<\\\/a>."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/jquery.script.js?ver=1.0.0" id="galleria-metropolia-script-js"></script>
+<script type="text/javascript" id="galleria-metropolia-theme-script-js-extra">
+/* <![CDATA[ */
+var cmsmasters_theme_script = {"primary_color":"#4c4c4c"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/theme-framework/theme-style/js/jquery.theme-script.js?ver=1.0.0" id="galleria-metropolia-theme-script-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/jquery.tweet.min.js?ver=1.3.1" id="twitter-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-content/themes/galleria-metropolia/js/smooth-sticky.min.js?ver=1.0.2" id="smooth-sticky-js"></script>
+<script type="text/javascript" src="https://photo-museum.org/wp-includes/js/comment-reply.min.js?ver=6.0.1" id="comment-reply-js"></script>
+<script type="text/javascript" id="jquery-lazyloadxt-js-extra">
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min.js?ver=2.6.0" id="jquery-lazyloadxt-js"></script>
+<script type="text/javascript" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js?ver=2.6.0" id="jquery-lazyloadxt-srcset-js"></script>
+<script type="text/javascript" id="jquery-lazyloadxt-extend-js-extra">
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"0","horizontal_container_classnames":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="//photo-museum.org/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js?ver=2.6.0" id="jquery-lazyloadxt-extend-js"></script>
+
+</body></html>
